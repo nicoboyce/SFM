@@ -1,3 +1,7 @@
+This is a fork of SFM just for me to play around with.
+
+The following is the readme from the original
+
 # Signal From Mars
 
 [![forthebadge](http://forthebadge.com/badges/built-with-love.svg)](http://forthebadge.com)
